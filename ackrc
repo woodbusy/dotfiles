@@ -1,0 +1,8 @@
+--color-filename=RED
+--color-lineno=BLACK
+--color-match=GREEN
+--type-add
+ruby=.task
+# Ignore noisy rails dirs
+--ignore-dir=log
+--ignore-dir=tmp/cache/assets
